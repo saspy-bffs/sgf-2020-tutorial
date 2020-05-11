@@ -2,15 +2,23 @@
 
 # Everything is better with friends: Using SAS in Python applications with SASPy and open-source tools
 
-### Materials from a Tutorial at [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum.html) in Washington, D.C., on March 20, 2020.
+### Materials from a Tutorial at [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum.html) in Washington, D.C., on March 20, 2020. (The conference was unfortunately cancelled, due to COVID-19 concerns.)
 
 Materials provided:
 
-- [To be added]
+- [Setup instructions](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Setup.pdf) for replicating examples discussed in the tutorial video at \[URL to be determined\]
+
+- Four Example files:
+  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section1.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section1.ipynb)
+  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section2.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section2.ipynb)
+  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section3.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section3.ipynb)
+  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section4.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section4.ipynb)
+  
+- [Setup instructions](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Demo.pdf) for replicating the [dataset-explorer demo](https://github.com/saspy-bffs/dataset-explorer) discussed at the end of tutorial video
 
 ## Prerequisites
 
-[To be added]
+The Jupyter Notebook example files assume SAS University Edition ([https://www.sas.com/en_us/software/university-edition/download-software.html](https://www.sas.com/en_us/software/university-edition/download-software.html)) is being used, with a Python 3 kernel associated with each file.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
