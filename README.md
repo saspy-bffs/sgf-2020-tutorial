@@ -6,7 +6,7 @@
 
 Materials provided:
 
-- [Setup instructions](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Setup.pdf) for replicating examples discussed in the tutorial video at \[URL to be determined\]
+- [Setup instructions](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Setup.pdf) for replicating examples discussed in the tutorial video at [https://youtu.be/YL8xV0AOcMc](https://www.youtube.com/watch?v=YL8xV0AOcMc)
 
 - Four Example files:
   * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section1.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section1.ipynb)
