@@ -2,7 +2,7 @@
 
 # Everything is better with friends: Using SAS in Python applications with SASPy and open-source tools
 
-### Materials from a Tutorial at [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum.html) in Washington, D.C., on March 20, 2020. (The conference was unfortunately cancelled, due to COVID-19 concerns.)
+### Materials from a Tutorial at [SAS Global Forum](https://github.com/sascommunities/sas-global-forum-2020) in Washington, D.C., on March 20, 2020. (The conference was unfortunately cancelled, due to COVID-19 concerns.)
 
 Materials provided:
 
