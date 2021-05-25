@@ -2,19 +2,19 @@
 
 # Everything is better with friends: Using SAS in Python applications with SASPy and open-source tools
 
-### Materials from a Tutorial at [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum.html) in Washington, D.C., on March 20, 2020. (The conference was unfortunately cancelled, due to COVID-19 concerns.)
+### Materials from a Tutorial at [SAS Global Forum](https://github.com/sascommunities/sas-global-forum-2020) in Washington, D.C., on March 20, 2020. (The conference was unfortunately cancelled, due to COVID-19 concerns.)
 
 Materials provided:
 
-- [Setup instructions](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Setup.pdf) for replicating examples discussed in the tutorial video at [https://youtu.be/YL8xV0AOcMc](https://www.youtube.com/watch?v=YL8xV0AOcMc)
+- [Setup instructions](Setup-Examples-SGF2020-Tutorial-Everything_Is_Better_With_Friends.pdf) for replicating examples discussed in the tutorial video at [https://youtu.be/YL8xV0AOcMc](https://www.youtube.com/watch?v=YL8xV0AOcMc)
 
 - Four Example files:
-  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section1.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section1.ipynb)
-  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section2.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section2.ipynb)
-  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section3.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section3.ipynb)
-  * [SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section4.ipynb](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Examples-Section4.ipynb)
+  * [Examples-Section1-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb](examples/Examples-Section1-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb)
+  * [Examples-Section2-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb](examples/Examples-Section2-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb)
+  * [Examples-Section3-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb](examples/Examples-Section3-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb)
+  * [Examples-Section4-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb](examples/Examples-Section4-SGF2020-Tutorial-Everything_Is_Better_With_Friends.ipynb)
   
-- [Setup instructions](SGF2020-Tutorial-Everything_Is_Better_With_Friends-Demo.pdf) for replicating the [dataset-explorer demo](https://github.com/saspy-bffs/dataset-explorer) discussed at the end of tutorial video
+- [Setup instructions](Setup-Demo-SGF2020-Tutorial-Everything_Is_Better_With_Friends.pdf) for replicating the [dataset-explorer demo](https://github.com/saspy-bffs/dataset-explorer) discussed at the end of tutorial video
 
 ## Prerequisites
 
